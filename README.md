@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashikant-virmani
-- 👀 I’m interested in Web Developement, Blockchain and System Programming.
-- 🌱 I’m currently learning Java EE, System Programming in C.
-- 💞️ I’m looking to collaborate on Java Web Development.
+- 👀 I’m interested in Web and Mobile Development.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on Flutter, Angular and Java Web and mobile apps development.
 - 📫 How to reach me shashikantvirmani@gmail.com
 
 <!---
