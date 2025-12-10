@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shashikant-virmani
 - 👀 I’m interested in Web and Mobile Development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Flutter, Angular and Java Web and mobile apps development.
+- 💞️ I’m looking to collaborate on Angular Web apps development.
 - 📫 How to reach me shashikantvirmani@gmail.com
 
 <!---
