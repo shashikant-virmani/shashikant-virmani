@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashikant-virmani
 - 👀 I’m interested in Web and Mobile Development.
-- 💞️ I’m looking to collaborate on Angular Web apps development.
+- 💞️ I’m looking to collaborate on Web and mobile app development.
 - 📫 How to reach me shashikantvirmani@gmail.com
 
 <!---
